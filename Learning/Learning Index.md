@@ -87,4 +87,4 @@ sort file.name asc
 
 ```
 ## 📜 License  
-Licensed under the [MIT License](./LICENSE) © 2025 Jarslaw Ladosz
+Licensed under the [MIT License](./LICENSE) © 2025 Jaroslaw Ladosz
